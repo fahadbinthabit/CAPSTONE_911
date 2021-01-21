@@ -1,15 +1,17 @@
 
-### Case study 
+## Case study 
 
-we will use a data set of 911 calls to determine the correlation with other variable from different data sets and will do a forecast  
+We will use a data set of 911 calls to determine the correlation with other variable from different data sets and will do a forecast  
 
-the different data sets are: 
--the change of temprature over the year in the same county 
--the number of rainy days over the year in the same county  
+### The different data sets are:
 
-the forecast module 
--ARIMA 
--SARIMA
+* the change of temprature over the year in the same county 
+* the number of rainy days over the year in the same county  
+
+### the forecast module :
+
+* ARIMA 
+* SARIMA
 
 ### Overview
 
